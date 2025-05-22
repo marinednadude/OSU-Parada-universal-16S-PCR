@@ -102,7 +102,7 @@ pcr_method_additional: Quality was validated via a Qubit Fluorometer.
 
 | PROTOCOL NAME | LINK         | VERSION      | RELEASE DATE | INTERNAL/EXTERNAL |
 | ------------- | ------------ | ------------ | ------------ | ----------------- |
-| NNOAA-PMEL-OME-Parada-universal-16S-PCR-Protocol-BeBOP | https://github.com/marinednadude/NOAA-PMEL-OME-Parada-universal-16S-PCR-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-Parada-universal-16S-PCR-Protocol-BeBOP.md | 1.1.0 | 2025-05-01 | Internal |
+| NOAA-PMEL-OME-Parada-universal-16S-PCR-Protocol-BeBOP | https://github.com/marinednadude/NOAA-PMEL-OME-Parada-universal-16S-PCR-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-Parada-universal-16S-PCR-Protocol-BeBOP.md | 1.1.0 | 2025-05-01 | Internal |
 | Illumina 16S Metagenomic Sequencing Library Preparation |https://support.illumina.com/documents/documentation/chemistry_documentation/16s/16s-metagenomic-library-prep-guide-15044223-b.pdf| 15044223 B | 2013-11-27  | External |
 
 ### Protocol Revision Record
