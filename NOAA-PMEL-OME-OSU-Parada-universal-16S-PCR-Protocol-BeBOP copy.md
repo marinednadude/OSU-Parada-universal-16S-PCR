@@ -67,6 +67,8 @@ pcr_method_additional: Quality was validated via a Qubit Fluorometer.
 
 # NOAA PMEL OME Parada universal 16S PCR Protocol
 
+**NOTE: This is NOT THE RECOMMENDED Parada 16S PCR protocol, for the standard OME protocol, see [NOAA-PMEL-OME-Parada-universal-16S-PCR-Protocol-BeBOP.md](https://github.com/marinednadude/NOAA-PMEL-OME-Parada-universal-16S-PCR-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-Parada-universal-16S-PCR-Protocol-BeBOP.md)**
+
 ## PROTOCOL INFORMATION
 
 ### Minimum Information about an Omics Protocol (MIOP)
@@ -143,6 +145,8 @@ pcr_method_additional: Quality was validated via a Qubit Fluorometer.
 | Positive control  | PCR positive control. Typically a synthetic DNA strand, non-indigenous DNA extract, or intentionally designed mock community loaded in place of a sample on a PCR to control for contamination and index hopping in the PCR step. |
 
 ## BACKGROUND
+
+**NOTE: This is NOT THE RECOMMENDED Parada 16S PCR protocol, for the standard OME protocol, see [NOAA-PMEL-OME-Parada-universal-16S-PCR-Protocol-BeBOP.md](https://github.com/marinednadude/NOAA-PMEL-OME-Parada-universal-16S-PCR-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-Parada-universal-16S-PCR-Protocol-BeBOP.md)**
 
 ### Summary
 
@@ -238,6 +242,7 @@ For a 96-well Plate:
 | 10% bleach| Hypochlorite bleach |Clorox| 40 mL | Remake every ~5 days as bleach decomposes quickly at 10% concentration |
 
 ## STANDARD OPERATING PROCEDURE
+**NOTE: This is NOT THE RECOMMENDED Parada 16S PCR protocol, for the standard OME protocol, see [NOAA-PMEL-OME-Parada-universal-16S-PCR-Protocol-BeBOP.md](https://github.com/marinednadude/NOAA-PMEL-OME-Parada-universal-16S-PCR-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-Parada-universal-16S-PCR-Protocol-BeBOP.md)**
 
 ### Preparation
 
