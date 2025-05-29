@@ -15,7 +15,7 @@ skills_required: sterile technique, pipetting skills, standard molecular techniq
 time_required: 180
 personnel_required: 1
 language: en
-issued: 2025-05-22
+issued: 2025-05-29
 audience: scientists
 publisher: NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Group; University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies
 hasVersion: 1
@@ -116,7 +116,7 @@ pcr_method_additional: Quality was validated via a Qubit Fluorometer.
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
 | 1.0.0 | 2025-05-01 | Initial release |
-| 1.1.0 | 2025-05-22 | Content revisions, format editing, and FAIRe updates |
+| 1.1.0 | 2025-05-29 | Content revisions, format editing, and FAIRe updates |
 
 ### Acronyms and Abbreviations
 
@@ -126,6 +126,7 @@ pcr_method_additional: Quality was validated via a Qubit Fluorometer.
 |AMBON| Arctic Marine Biodiveristy Observation Network |
 |BSC	|Biosafety cabinet|
 |CQLS	|Center for Quantitative Life Sciences|
+|DNA	|Deoxyribonucleic acid|
 |eDNA	|environmental DNA|
 |EtOH| Ethanol|
 |IDT| Integrated DNA Technologies
@@ -140,7 +141,7 @@ pcr_method_additional: Quality was validated via a Qubit Fluorometer.
 | SPECIALISED TERM | DEFINITION |
 | ------------- | ------------- |
 | Extraction blank  | Extraction negative control. Typically nuclease-free water or empty filter run through the DNA extraction process to control for contamination in the DNA extraction step. |
-| Field blank  | Sampling negative control. Typically distilled or reverse osmosis water run through a filter like an seawater eDNA sample to control for contamination in the field sampling step. |
+| Field blank  | Sampling negative control. Typically distilled or reverse osmosis water run through a filter like a seawater eDNA sample to control for contamination in the field sampling step. |
 | No template control | PCR negative control. Typically nuclease-free water loaded in place of a sample on a PCR to control for contamination in the PCR step. |
 | Positive control  | PCR positive control. Typically a synthetic DNA strand, non-indigenous DNA extract, or intentionally designed mock community loaded in place of a sample on a PCR to control for contamination and index hopping in the PCR step. |
 
@@ -292,10 +293,10 @@ This table breaks down the mixture per plate and per reaction. When running full
 
 1. Set out primers and positive control to thaw.
 2. Vortex and spin down thawed positive control, primers, and nuclease free water. Then tap/flick PCR master mix rather than vortexing before spinning down. Thawed reagents should be stored in a cooling block or fridge when not in use.
-3. Pool reagents to make final master mix, as denoted in above in reagent mixture table.
+3. Pool reagents to make final master mix, as denoted in the reagent mixture table.
 4. Set out template DNA to thaw if frozen.
 5. Aliquot 22.5 μL of final master mix into each well of the PCR plate. The plate should sit in a cold block to ensure the reagents remain at a low temperature.
-6. Add 2.5 μL DNA template to each well. If input gDNA was > 10ng/µL, diluted to 1:3. Reserve two wells for the positive control and a no template control (NTC). 
+6. Add 2.5 μL DNA template to each well. If input DNA was > 10ng/µL, dilute to 1:3. Reserve two wells for the positive control and a no template control (NTC). 
 7. To one well each, add 2.5 μL of the positive control and 2.5 μL of nuclease-free water for the NTC.
 8. Seal the PCR plate with foil.
 9. Spin down the plate and then transport in cooler blocks before placing in thermocycler.
