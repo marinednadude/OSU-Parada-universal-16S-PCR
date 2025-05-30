@@ -61,7 +61,7 @@ nucl_acid_amp: https://doi.org/10.5281/zenodo.11398127
 pcr_cond: initial denaturation:95_3;inital_cyling;denaturation:95_0.5;annealing:50_0.5;elongation:72_0.5;5;normal_cycling;denaturation:95_0.5;annealing:55_0.5;elongation:72_0.5;final elongation:72_5;20
 annealingTemp: not applicable
 pcr_cycles: not applicable
-pcr_analysis_software: missing":" not provided
+pcr_analysis_software: "missing: not provided"
 pcr_method_additional: Quality was validated via a Qubit Fluorometer.
 ---
 
