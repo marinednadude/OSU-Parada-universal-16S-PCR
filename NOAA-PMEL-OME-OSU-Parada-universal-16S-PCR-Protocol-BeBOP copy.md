@@ -15,7 +15,7 @@ skills_required: sterile technique, pipetting skills, standard molecular techniq
 time_required: 180
 personnel_required: 1
 language: en
-issued: 2025-05-29
+issued: 2025-06-10
 audience: scientists
 publisher: NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Group; University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies
 hasVersion: 1
@@ -56,11 +56,11 @@ block_ref: not applicable
 block_taxa: not applicable
 amplificationReactionVolume: 25
 pcr_dna_vol: 2.0
-pcr_rep: 1.0
+pcr_rep: 3.0
 nucl_acid_amp: https://doi.org/10.5281/zenodo.11398127
 pcr_cond: initial denaturation:95_3;inital_cyling;denaturation:95_0.5;annealing:50_0.5;elongation:72_0.5;5;normal_cycling;denaturation:95_0.5;annealing:55_0.5;elongation:72_0.5;final elongation:72_5;20
 annealingTemp: not applicable
-pcr_cycles: not applicable
+pcr_cycles: 25
 pcr_analysis_software: "missing: not provided"
 pcr_method_additional: Quality was validated via a Qubit Fluorometer.
 ---
@@ -116,13 +116,13 @@ pcr_method_additional: Quality was validated via a Qubit Fluorometer.
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
 | 1.0.0 | 2025-05-01 | Initial release |
-| 1.1.0 | 2025-05-29 | Content revisions, format editing, and FAIRe updates |
+| 1.1.0 | 2025-06-10 | Content revisions, format editing, and FAIRe updates |
 
 ### Acronyms and Abbreviations
 
 | ACRONYM / ABBREVIATION | DEFINITION |
 | ------------- | ------------- |
-|16S v4 rRNA |16S ribosomal nucleic acid sequencing assay targeting V4 gene region|
+|16S v4v5 rRNA |16S ribosomal nucleic acid sequencing assay targeting V4 gene region|
 |AMBON| Arctic Marine Biodiveristy Observation Network |
 |BSC	|Biosafety cabinet|
 |CQLS	|Center for Quantitative Life Sciences|
@@ -263,9 +263,9 @@ For a 96-well Plate:
 
 | Reagent |Volume (μL) per plate| Volume (μL) per reaction | Intial concentration| Final concentration|
 | ----- | ----- | ----- |----- |-----|
-|2x KAPA HiFi HotStart Ready Mix  |1300|  12.5|100% | 50%|
-| Forward Primer| 520| 5|1 μM | 5 μM |
-| Reverse Primer |520| 5|1 μM |5 μM |
+|2x KAPA HiFi HotStart Ready Mix  |1300|  12.5|200% | 100%|
+| Forward Primer| 520| 5|1 μM | 0.2 μM |
+| Reverse Primer |520| 5|1 μM |0.2 μM |
 | Template DNA|N/A| 2.5 | 100%|10% |
 | **Total**|**2340**| **25** | **N/A** |**N/A**|
 
@@ -296,7 +296,7 @@ This table breaks down the mixture per plate and per reaction. When running full
 3. Pool reagents to make final master mix, as denoted in the reagent mixture table.
 4. Set out template DNA to thaw if frozen.
 5. Aliquot 22.5 μL of final master mix into each well of the PCR plate. The plate should sit in a cold block to ensure the reagents remain at a low temperature.
-6. Add 2.5 μL DNA template to each well. If input DNA was > 10ng/µL, dilute to 1:3. Reserve two wells for the positive control and a no template control (NTC). 
+6. Add 2.5 μL DNA template to each well. If input DNA was > 10ng/µL, dilute 1:3. Reserve two wells for the positive control and a no template control (NTC). 
 7. To one well each, add 2.5 μL of the positive control and 2.5 μL of nuclease-free water for the NTC.
 8. Seal the PCR plate with foil.
 9. Spin down the plate and then transport in cooler blocks before placing in thermocycler.
