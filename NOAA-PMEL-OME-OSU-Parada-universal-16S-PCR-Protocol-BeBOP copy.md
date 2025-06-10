@@ -122,7 +122,7 @@ pcr_method_additional: Quality was validated via a Qubit Fluorometer.
 
 | ACRONYM / ABBREVIATION | DEFINITION |
 | ------------- | ------------- |
-|16S v4v5 rRNA |16S ribosomal nucleic acid sequencing assay targeting V4 gene region|
+|16S v4v5 rRNA |16S ribosomal nucleic acid sequencing assay targeting V4-V5 gene region|
 |AMBON| Arctic Marine Biodiveristy Observation Network |
 |BSC	|Biosafety cabinet|
 |CQLS	|Center for Quantitative Life Sciences|
